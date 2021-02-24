@@ -1,0 +1,8 @@
+{
+    "admin":{
+        "userID":111,
+        "username":"aaa",
+        "password":"123",
+        "usertype":"管理员"
+    } 
+}
