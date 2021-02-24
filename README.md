@@ -7,7 +7,7 @@
 ## 首页 使用echarts动态展示游戏运营数据
 
 ## elemen-ui实现玩家增删查改功能  mockjs模拟json数据生成
-![image]()
+![image](https://github.com/angellfzhong/game-cms/blob/main/1.jpg)
 
 ## Project setup
 ```
