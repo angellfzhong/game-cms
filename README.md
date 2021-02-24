@@ -3,11 +3,16 @@
 ## 功能介绍
 
 ## 登录
-
-## 首页 使用echarts动态展示游戏运营数据
-
-## elemen-ui实现玩家增删查改功能  mockjs模拟json数据生成
+json数据模拟实现登录验证，记住用户名密码功能
 ![image](https://github.com/angellfzhong/game-cms/blob/main/1.jpg)
+
+## 首页 
+使用echarts动态展示游戏运营数据
+![image](https://github.com/angellfzhong/game-cms/blob/main/2.jpg)
+
+## 玩家管理
+elemen-ui实现玩家增删查改功能  mockjs模拟json数据生成
+![image](https://github.com/angellfzhong/game-cms/blob/main/3.jpg)
 
 ## Project setup
 ```
